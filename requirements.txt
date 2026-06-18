@@ -1,0 +1,15 @@
+# Core
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+
+# Algoritmos Genéticos
+deap==1.4.1
+
+# Visualización y Mapas
+plotly==5.20.0
+folium==0.16.0
+streamlit-folium==0.18.0
+
+# Utilidades (opcionales pero recomendadas)
+watchdog==4.0.0
